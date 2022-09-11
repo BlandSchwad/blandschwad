@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Andrew
+
+I’m currently working on Doujutsu, a manga reader with OCR translation feature. *Link and repo coming soon*
+
+
 
 <!--
 **BlandSchwad/blandschwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
